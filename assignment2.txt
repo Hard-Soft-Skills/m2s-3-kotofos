@@ -1,0 +1,5 @@
+У кафки исходники и сайт в одной репе?
+https://github.com/tulios/kafkajs/tree/master/website
+
+Рутовый эксепшн
+https://github.com/tulios/kafkajs/blob/master/src/errors.js
