@@ -2,6 +2,10 @@
 
 телеграм бот для улучшения голосовух
 
+# Running
+
+`go run main.go`
+
 ## Фичи
 
 ### Основные
@@ -55,4 +59,5 @@ profile (lang, is_recognize_speech, is_ML_enchancer, is_compressor)
 
 Профиль юзера с настройками в БД
 
-Язык: go/ts/c#?
+Язык: go
+tg library: telego - не просто враппер апи а полноценная библиотека
